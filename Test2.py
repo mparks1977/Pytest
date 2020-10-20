@@ -20,3 +20,4 @@ class Photography:
         
 p1 = Photography("Nikon", 52)
 p1.myfunc()
+#"Test page"
